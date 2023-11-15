@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "198811571402",
+    "project_id": "test-fire-8092f",
+    "storage_bucket": "test-fire-8092f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198811571402:android:5ba21382f3c8d7378e9033",
+        "android_client_info": {
+          "package_name": "test.fire.testfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Fq25p2rFpTBurfCebmTjrzU-fw9pU1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
